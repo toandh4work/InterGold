@@ -1,0 +1,2956 @@
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6, 
+body .heading{
+  font-weight: 500;
+}
+.hide{
+  display: none;
+}
+.price input[type="text"],
+.insurance .wpcf7-form input[type="date"] {
+  margin-bottom: 1rem;
+}
+
+.insurance .wpcf7-form-control-wrap {
+  width: 350px;
+}
+.insurance-content {
+  padding: 25px 28px !important;
+  background-color: white;
+  border-radius: 10px;
+}
+.insurance-content .nav-line-bottom{
+  border-bottom: 1px solid #5E5E5E;
+}
+.insurance-content ul.nav li a {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  padding: 10px 20px;
+}
+.insurance-content ul.nav li.active a{
+  color: #009052;
+}
+.insurance-content .nav-line-bottom>li>a:before{
+  margin-bottom: -1px;
+}
+
+.insurance input.btn-buy {
+  background: #f58533;
+  border-radius: 70px;
+  width: 200px;
+  height: 50px;
+  margin-top: 45px;
+}
+.insurance .insurance-content .sum-par {
+  background-color: #009052;
+  width: 100px;
+  background-size: 19px;
+  background-position: center left 10px;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 30px;
+  background-repeat: no-repeat;
+  font-size: 22px;
+  color: white;
+  padding: 5px 30px;
+  margin-left: 20px;
+}
+.insurance .list-insur {
+  overflow: hidden;
+  margin: 0;
+  width: 100%;
+  float: left;
+  margin-top: 15px;
+  padding: 0 30px;
+}
+.insurance .list-insur li {
+  list-style: none;
+  float: left;
+  margin-right: 30px;
+}
+.insurance .hio-quantity {
+  width: 50px;
+  height: 30px;
+  float: left;
+  margin-right: 5px;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+  padding-left: 10px;
+}
+.insurance .hio--price {
+  font-size: 25px;
+  font-weight: 700;
+  color: #000;
+  display: block;
+  text-align: right;
+}
+.insurance .hio--code {
+  font-size: 17px;
+}
+.insurance .insurance-content .list-insur div {
+  display: flex;
+}
+.insurance .insurance-content .nav-line > li.active > a:before,
+.insurance .insurance-content .nav-line > li:hover > a:before {
+  top: auto;
+  bottom: 0;
+}
+.restaurant .box-blog-post {
+  border-radius: 20px;
+}
+.restaurant .box-blog-post .box-image {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.restaurant .col-inner {
+  border-radius: 20px;
+}
+.restaurant .box-blog-post .box-text {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.form-discount .wpcf7-form-control {
+  margin-bottom: 22px;
+  border-radius: 20px;
+  padding: 0 20px;
+}
+
+.form-discount .flex-col.flex-grow {
+  padding: 0 12px;
+}
+.form-discount .your-discount {
+  width: 50%;
+  padding-right: 12px;
+}
+.form-discount .your-name input {
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.form-discount .your-phone input {
+  background-repeat: no-repeat;
+  background-size: 11px 19px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.form-discount .your-mail input {
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.form-discount .your-locate input {
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.form-discount .your-date input {
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.form-discount .your-discount input {
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: center left 10px;
+  padding-left: 30px;
+}
+.regis-member {
+  background: rgba(221, 221, 221, 0.85);
+  border-radius: 20px;
+  padding: 40px 130px;
+}
+#insurance {
+  padding: 30px 0;
+}
+.form-discount .wpcf7-submit {
+  background-color: #009052 !important;
+  width: 230px;
+}
+.btn-center {
+  display: flex;
+  justify-content: center;
+}
+.insurance .nav-line > li > a:before {
+  top: auto;
+  bottom: 0;
+}
+.insurance .insurance-content .time .wpcf7-select {
+  background-color: #ffffff;
+  border: 1px solid #5e5e5e;
+  box-sizing: border-box;
+  border-radius: 70px;
+  background-repeat: no-repeat;
+  background-size: 14px;
+  padding-left: 50px;
+  background-position: center left 22px;
+}
+.insurance .insurance-content .golf .wpcf7-select {
+  background-color: #ffffff;
+  border: 1px solid #5e5e5e;
+  box-sizing: border-box;
+  border-radius: 70px;
+  background-repeat: no-repeat;
+  background-size: 14px;
+  padding-left: 50px;
+  background-position: center left 22px;
+}
+.insurance .wpcf7-form-control-wrap .wpcf7-form-control {
+  background-color: #fff;
+  border: 1px solid #5e5e5e;
+}
+.badge-container {
+  bottom: 17px;
+  right: 13px;
+}
+.badge-inner.secondary.on-sale {
+  border-radius: 0;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+}
+.badge {
+  width: 60px;
+  height: 60px;
+}
+.badge-inner.secondary.on-sale .onsale {
+  font-size: 14px;
+}
+.post-index-big .col {
+  padding: 0 15px 15px;
+}
+.post-box-right-index > .col {
+  padding: 0 15px 15px;
+}
+.post-index-big .blog-post-inner {
+  display: flex;
+  flex-direction: column;
+}
+.post-index-big .blog-post-inner .post-meta {
+  order: 3;
+}
+.tg {
+  border-spacing: 0;
+}
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  /*font-size: 16px;*/
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  /*font-size: 14px;*/
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg .tg-dkvh {
+  background-color: #ddd;
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-fc9r {
+  background-color: #009052;
+  border-color: inherit;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-0u7v {
+  background-color: #009052;
+  border-color: inherit;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-px0x {
+  background-color: #dddddd;
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-nipj {
+  background-color: #009052;
+  border-color: inherit;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  border-left: none;
+}
+.tg .tg-iprk {
+  background-color: #04683d;
+  border-color: inherit;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-cf4j {
+  background-color: #009052;
+  border-color: inherit;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-i4po {
+  background-color: #ffffff;
+  border-color: inherit;
+  color: #f58533;
+  text-align: center;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+.tg .tg-0gul {
+  background-color: #e5e5e5;
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+  border-left: none;
+}
+.tg .tg-dm0v {
+  background-color: #e5e5e5;
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-dgf3 {
+  background-color: #e5e5e5;
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+}
+.tg .tg-sf24 {
+  background-color: #ffffff;
+  border-color: inherit;
+  color: #f58533;
+  font-weight: 500;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table.tg {
+  border-radius: 10px 10px 0 0;
+  overflow: hidden;
+}
+
+table.tg td,
+table.tg th {
+  /*font-weight: 500;*/
+  color: #000;
+  border-color: #ffffff !important;
+}
+
+table.tg td:last-child,
+table.tg th:last-child {
+  border-right: none;
+}
+
+table.tg td {
+  border-bottom: none;
+}
+
+table.tg th {
+  font-weight: 700;
+  text-transform: inherit;
+  /*font-size: 18px;*/
+}
+
+table.tg tr:first-child th {
+  border-top: none;
+}
+
+.tg .tg-0pky {
+  border-color: inherit;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.register-member {
+  width: 253px;
+  height: 50px;
+  display: block;
+  margin: auto;
+  background: #F58532;
+  border-radius: 30px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 50px;
+  color: #FFFFFF !important;
+  }
+
+a.nav-top-link.nav-top-not-logged-in.btn-login {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #ffffff;
+  padding: 5px 10px;
+  border: 1px solid white;
+  border-radius: 15px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+a.nav-top-link.nav-top-not-logged-in.btn-register {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #ffffff;
+  padding: 5px 10px;
+
+  border-radius: 15px;
+  background: #009051;
+  width: 110px;
+  text-align: center;
+}
+a.nav-top-link.nav-top-not-logged-in.btn-register span {
+  margin: 0 auto;
+}
+.woocommerce-lost-password #content,
+.page-user-login {
+  padding: 68px;
+  background-color: #fff;
+}
+.woocommerce-lost-password .content-text,
+.form-user-login {
+  background: #ddd;
+  border-radius: 20px;
+  padding: 38px 50px;
+  width: 600px;
+}
+.form-user-login .form-title {
+  font-weight: 500;
+  font-size: 22px;
+  text-align: center;
+  color: #000;
+}
+.form-user-login .login-social-btn {
+  text-align: center;
+  background: #fff;
+  border: 1px solid #c4c4c4;
+  border-radius: 50px;
+  padding: 15px;
+  width: 240px;
+  margin-top: 22px;
+  display: block;
+  position: relative;
+}
+.form-user-login .login-social-btn i {
+  margin-right: 0.5em;
+}
+.form-user-login .form-user-sub-title {
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 22px 0;
+}
+.form-user-login .form-user-sub-title-main {
+  text-align: center;
+  font-size: 18px;
+  color: #000;
+  position: relative;
+  margin: 0 0.5em;
+}
+.form-user-login .form-user-sub-title b {
+  display: block;
+  flex: 1;
+  height: 1px;
+  background-color: #c4c4c4;
+}
+.form-user-login .form-user-inner .btn-primary {
+  background-color: #009052;
+  width: 100%;
+  text-align: center;
+  border: none;
+  border-radius: 50px;
+  font-weight: 500;
+  font-size: 18px;
+  color: white;
+  height: 55px;
+}
+
+#user_login, body .woocommerce-Input, .form-user-login .form-user-inner .form-control {
+  background-color: #fff;
+  border: 1px solid #c4c4c4;
+  border-radius: 50px;  
+  height: 55px;
+  font-size: 18px;
+  color: #949494;
+  padding-top: 20px;
+  padding-bottom: 20px;  
+}
+/*@media (min-width: 850px){*/
+  #user_login, body .woocommerce-Input, .form-user-login .form-user-inner .form-control {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+/*}*/
+
+.form-user-login .form-user-des {
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  color: #303030;
+}
+.form-user-login .form-user-des a {
+  color: #009052;
+}
+
+.user-login-link {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  color: #fff;
+  border-radius: 15px;
+  padding: 7px 20px;
+  border: 1px solid transparent;
+  display: inline-block;
+}
+.user-login-link.link-login {
+  border-color: #fff;
+}
+.user-login-link.link-register {
+  background: #009052;
+  margin-left: 13px;
+}
+.user-login-link.link-register:hover {
+  color: #000;
+  opacity: 0.7;
+}
+.footer-login {
+  background: #000;
+  padding: 30px 0;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+}
+.footer-login .social-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.footer-login .social-links ul li {
+  display: inline-block;
+  margin-left: 5px;
+}
+.footer-login .social-links ul li i {
+  border-radius: 5px;
+  background: #fff;
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  font-size: 23px;
+}
+.forgot-pass {
+  display: flex;
+  justify-content: space-between;
+}
+.form-user-login .login-social {
+  display: flex;
+  justify-content: center;
+}
+.btn-facebook-login::after {
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 20px;
+}
+.btn-facebook-login::after {
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 20px;
+}
+.btn-google-login::after {
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 20px;
+}
+.woocommerce-privacy-policy-link,
+.woocommerce-terms-and-conditions-link,
+.lost_password.woocommerce-LostPassword a{
+  color: #009051;
+}
+.woocommerce-privacy-policy-text {
+  text-align: center;
+  padding-top: 15px;
+}
+
+@media only screen and (min-width: 49em) {
+}
+
+.post-box-right-index .blog-post-inner {
+  display: flex;
+  flex-direction: column;
+}
+.post-box-right-index .blog-post-inner .post-meta {
+  order: 3;
+}
+.post-meta.is-small.op-8 {
+  position: relative;
+  padding-left: 20px;
+  font-size: 16px;
+}
+.post-meta.is-small.op-8:after {
+  content: "";
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.star-rating span:before {
+  color: #009052 !important;
+}
+.customer-feedback-slide .icon-box-text .testimonial-text p {
+  font-size: 18px;
+  font-style: normal;
+  line-height: 21px;
+  color: #000000;
+}
+.customer-feedback-slide .icon-box-text .testimonial-text {
+  padding-top: 15px;
+}
+.customer-feedback-slide .icon-box-text .testimonial-meta .test_name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+.rating-hotdeal .count-rate {
+  color: #f58533 !important;
+}
+input.search-table {
+  border-radius: 20px;
+  margin: 10px 0;
+}
+a.book-now {
+  padding: 5px 10px;
+  font-size: 16px;
+  background: #f58532;
+  border-radius: 20px;
+  color: white;
+}
+
+/* Golf Map */
+.cls-22, .cls-3, .cls-33 {
+  cursor: pointer;
+}
+
+/* Price Table */
+table.tg tr:hover td:not(.tg-0gul, .tg-0gul + td) {
+  background-color: #eeeeee !important;
+}
+
+table.tg .title:hover {
+  font-weight: 700;
+  text-decoration-line: underline;
+  color: #009051;
+}
+
+/* Golf event */
+.wrap-timer .over-due {
+  display: block;
+  font-size: 14px;
+  padding: 0 8px;
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.main-event-single .wrap-timer .over-due {
+  font-size: 18px;
+  padding: 10px 8px;
+}
+
+
+#register_event {
+  padding: 30px 30px 15px;
+  border-radius: 15px;
+}
+
+#register_event .email2 {
+  display: none;
+}
+
+#register_event input:not([type=submit]) {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.hotdeal-top .addtocart-xemthem {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  width: 120px;
+  height: 40px;
+  background: #F58533;
+  border-radius: 50px;
+  line-height: 40px;
+  color: #ffffff !important;
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 48em) {
+  /*************** ADD MOBILE ONLY CSS HERE  ***************/
+  .regis-member {
+    padding: 20px 15px;
+  }
+  .sec-form {
+    padding: 0 15px;
+  }
+  .insurance .banner-insurance {
+    height: 120px;
+  }
+  .insurance .wpcf7-form-control-wrap {
+    width: 310px;
+  }
+  .insurance input.btn-buy {
+    margin-top: 25px;
+  }
+  .insurance-content .entry-content h2 {
+    font-size: 16px;
+  }
+  .insurance-content .entry-content p {
+    font-size: 15px;
+  }
+  .insurance-content {
+    padding: 15px !important;
+  }
+  .insurance .list-insur {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .insurance .list-insur li {
+    margin-right: 15px;
+    margin-left: 0;
+  }
+  .insurance .hio--code {
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  .insurance .hio-quantity {
+    width: 32px;
+    height: 20px;
+    margin-bottom: 0;
+  }
+  .insurance .hio--price {
+    font-size: 15px;
+  }
+  .insurance input.btn-buy {
+    width: 124px;
+    height: 40px;
+  }
+  .price span {
+    /*font-size: 16px !important;*/
+  }
+  .insurance .insurance-content .sum-par {
+    background-size: 15px;
+    background-position: center left 5px;
+    padding: 5px 20px;
+  }
+  .insurance .insurance-content .list-insur div {
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .insurance .insurance-content .time .wpcf7-select {
+    background-size: 22px;
+  }
+  .text.content-banner h3 {
+    font-size: 30px !important;
+  }
+  .text.content-banner h2 {
+    font-size: 50px !important;
+  }
+  a.btn-map-golf-banner {
+    height: 48px;
+    min-height: unset;
+    background-position: 72px 11px;
+    line-height: 48px;
+    font-size: 0.95em;
+  }
+  a.btn-map-golf-banner span {
+    line-height: 1.6;
+  }
+  .pl-sm-15 {
+    padding-left: 15px;
+  }
+  .pr-sm-15 {
+    padding-right: 15px;
+  }
+  .hotdeal-item-loop .post-thumbnail {
+    width: 100%;
+  }
+  .hotdeal-item-loop .content-item {
+    width: 100%;
+    flex-direction: column;
+  }
+  .hotdeal-item-loop {
+    flex-direction: column;
+  }
+  .hotdeal-item-loop .content-item .info-golf-item {
+    width: 100%;
+    padding: 15px;
+  }
+  .hotdeal-item-loop .content-item .price-item-golf {
+    width: 100%;
+    padding: 15px;
+    margin-top: -15px;
+  }
+  .p-0 {
+    padding: 0 !important;
+  }
+  .flipper {
+    font-size: 16px !important;
+  }
+  .flipper-group label {
+    font-size: 14px;
+  }
+  .hotdeal-top .thumbnail .countdown {
+    width: 106px;
+  }
+  .time-countdown .time-end-register {
+    font-size: 16px;
+  }
+  .time-countdown .time-end-register span {
+    font-size: 15px;
+  }
+  .hotdeal-top .big-item-hotdeal .thumbnail img.thumb {
+    min-height: 230px;
+  }
+  .hotdeal-top .big-item-hotdeal h3.title,
+  .item-event-loop .info-event h3.title {
+    font-size: 18px;
+  }
+  .blog-archive .page-numbers {
+    justify-content: center;
+  }
+  .post-sidebar aside a .image {
+    width: 100%;
+  }
+  .wrap-post-related ul li:before {
+    top: 25%;
+  }
+  .recent-blog-posts-li .mr-half .badge-square {
+    width: 93px;
+    height: 65px;
+  }
+  .comments-area {
+    display: none;
+  }
+  .flickity-viewport .col.post-item {
+    opacity: 0;
+  }
+
+  .flickity-viewport .col.post-item.is-selected {
+    opacity: 1;
+  }
+  #banner-grid-1177535592 {
+    height: 400px !important;
+  }
+  .hotdeal-item-home {
+    padding: 25px 10px;
+  }
+  .header-tours-single h1.title-single {
+    font-size: 16px;
+  }
+  .content-tab-event-single .list-title {
+    display: none;
+  }
+  .header-event-single .time-countdown {
+    display: flex;
+    width: 60%;
+  }
+  .header-event-single .time-countdown .wrap-timer {
+    padding: 10px 3px 10px 10px;
+  }
+  .header-event-single h1.title {
+    font-size: 18px;
+  }
+  .header-event-single .location p {
+    font-size: 15px;
+  }
+  .time-countdown .time-end-register {
+    border-radius: 8px 0 0 8px;
+  }
+  .content-tab-event-single-item h3 {
+    font-size: 18px;
+  }
+  .box-add-to-cart > span {
+    font-size: 18px;
+  }
+  .tab-title-tours li {
+    margin: 0 !important;
+  }
+  .box-star {
+    margin-left: 0;
+    justify-content: space-between;
+  }
+  .box-star .item-star {
+    margin-left: 0;
+    width: 170px;
+    flex: auto;
+  }
+  .box-star .item-star span {
+    font-size: 14px;
+  }
+  .star-rating-custom label {
+    font-size: 16px;
+  }
+  .news-course-golf .content-news .item-news > img {
+    border-radius: 15px;
+  }
+  .news-course-golf .title {
+    font-size: 18px;
+  }
+  .golf-course-benefis .title,
+  .rating-course-golf h3.title,
+  .content-golf-left h1.title {
+    font-size: 18px;
+  }
+  .star-rating-custom {
+    margin-right: 15px;
+  }
+  .news-course-golf .content-news .column-right-new h4 {
+    font-size: 16px;
+  }
+  .news-course-golf .content-news .column-right-new p,
+  .content-golf-left .meta-address {
+    font-size: 15px;
+  }
+  .golf-course-benefis .content-benefis,
+  .content-golf-left .content-golf .item-content,
+  .content-golf-left .content-golf .readmore-content {
+    font-size: 15px;
+  }
+  h1.entry-title {
+    font-size: 18px;
+  }
+  .breadcrumb-single {
+    margin-bottom: 15px;
+  }
+  .wrap-post-related a {
+    font-size: 15px;
+  }
+  .wrap-post-related .post-title,
+  aside.flatsome_recent_posts .widget-title {
+    font-size: 19px;
+  }
+  .off-canvas-left .mfp-content {
+    width: 325px;
+    background-color: #000;
+    color: white;
+  }
+  .html_topbar_left a.text-top-header::after {
+    left: 20px;
+  }
+  .html_topbar_left a.text-top-header {
+    color: white !important;
+  }
+  #main-menu .nav > li > a {
+    color: white !important;
+  }
+  #main-menu .nav-vertical > li > ul li a {
+    color: #fff;
+  }
+  a.nav-top-link.nav-top-not-logged-in.btn-login,
+  a.nav-top-link.nav-top-not-logged-in.btn-register {
+    width: 81px;
+    padding: 5px 0;
+    font-size: 14px;
+    padding-left: 0px !important;
+  }
+  a.nav-top-link.nav-top-not-logged-in.btn-login span {
+    margin: 0 auto;
+  }
+  li.account-item.has-icon.menu-item {
+    padding: 15px 20px;
+  }
+  li.account-item.has-icon.menu-item.has-child {
+    padding: 0;
+  }
+  .home .post-box-right-index .box-text h5 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    font-size: 15px;
+  }
+  .home .post-box-right-index .box-text p.from_the_blog_excerpt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    font-size: 15px;
+  }
+  .post-box-right-index .box.box-text-bottom {
+    display: flex;
+  }
+  .post-box-right-index .box-text {
+    padding: 0 15px;
+  }
+  .form-user-login {
+    width: auto;
+    border-radius: 0;
+    padding: 38px 20px;
+  }
+  .page-user-login {
+    padding: 0;
+  }
+  .form-user-login .login-social-btn {
+    width: 160px;
+  }
+  .btn-facebook-login::after,
+  .btn-google-login::after {
+    left: 20px;
+  }
+  .off-canvas:not(.off-canvas-center) li.html {
+    padding: 0;
+  }
+  a.uppercase.text-top-header {
+    /*padding-left: 50px !important;*/
+  }
+  .html_topbar_right a.text-top-header.mail-top::after {
+    left: 20px;
+  }
+  #logo {
+    width: 90px !important;
+  }
+}
+/* Css added 27-06-20022*/
+#step2 #payment {
+  border: 1px solid #C4C4C4;
+  border-radius: 15px;
+  background-color: #ffff;
+  margin-top: 18px;
+  min-height: 100%;
+}
+#step2 #payment input[type=checkbox]+label, #step2 #payment input[type=radio]+label {
+  display: inline;
+  color: #817E7E;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  /* padding-left: 10px; */
+  position: absolute;
+  /* display: block; */
+}
+#step2 #payment input[type=checkbox], input[type=radio] {
+  display: inline;
+  margin-right: 10px;
+  font-size: 18px;
+  margin-top: 0;
+}
+li.wc_payment_method.payment_method_cod {
+  /*padding: 46px 32px;*/
+}
+#step2 li.wc_payment_method #custom_input{
+  padding-left: 15px;
+}
+/* account page*/
+
+.qldh {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  padding-left: 7px;
+}
+
+.touch-scroll-table {
+  background: #FFFFFF;
+  border: 1px solid #C4C4C4;
+  border-radius: 15px;
+  padding: 17px 27px;
+}
+th.woocommerce-orders-table__header {
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 23px;
+  color: #817E7E;
+}
+.woocommerce-orders-table__cell-order-number a {
+  /* font-family: 'Helvetica Neue'; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: #009052;
+}
+td.woocommerce-orders-table__cell {
+  padding-top: 21px;
+  font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #303030;
+}
+.woocommerce-pagination.woocommerce-pagination--without-numbers.woocommerce-Pagination {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.woocommerce-orders-table__cell-dich-vu a{
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: justify;
+color: #000000;
+}
+.ngaydat.large-6.col {
+  text-align: right;
+}
+.title {
+  display: flex;
+}
+
+.title p {
+font-weight: 500;
+font-size: 22px;
+line-height: 151.19%;
+display: flex;
+align-items: center;
+
+color: #817E7E;
+}
+.information p{
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 151.19%;
+  /* or 27px */
+  display: flex;
+  align-items: center;
+  color: #303030;
+
+}
+.information {
+  padding: 14px 25px;
+  background-color: #fff;
+  border: 1px solid #C4C4C4;
+  border-radius: 15px;
+}
+section.woocommerce-order-details {
+  background-color: #ffff;
+  background: #FFFFFF;
+  border: 1px solid #C4C4C4;
+  border-radius: 15px;
+  padding: 19px 29px;
+}
+.detail table {
+  width: 350px;
+  float: right;
+}
+.detail {
+  min-height: 150px;
+}
+td.woocommerce-table__product-total.product-total{
+  text-align: left;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+td.woocommerce-table__product-name.product-name{
+
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: justify;
+}
+.golfer {
+  border-bottom: 1px solid #C4C4C4;
+  padding-top: 10px;
+}
+section.woocommerce-order-details {
+  min-height: 500px;
+}
+.center {
+  max-width: 300px;
+  margin: 0px auto;
+}
+img#branlase {
+  max-width: 27px;
+}
+.title-acc-page{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  color: #000000;
+}
+.card-booking .card-text{
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+color: #009052;
+}
+.card-body {
+  background-color: #fff;
+
+}
+.booking-button{
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+  border-radius: 60px;
+  background-color: #fff!important;
+}
+.form-booking input{
+      background: #FFFFFF;
+      border: 1px solid #C4C4C4;
+      border-radius: 50px;
+      max-width: 460px;
+      display: block;
+      margin: 0px auto;
+      margin-bottom: 13px;
+}
+.form-booking {
+  background: #E5E5E5;
+  border-radius: 0px 0px 15px 15px;
+  padding: 50px;
+}
+h5.card-title {
+  padding-top: 40px;
+}
+.card-text
+{
+  margin-bottom: 10px;
+}
+
+/* ==================== 05/07 =====================*/
+/* text banner */
+.banner h2{
+  margin-top: 0.5em;
+}
+/* description live booking, hot deal, tour golf, tin tức */
+#text-615325182 p, #text-3812036366 p, #text-2478728815 p, #text-459586025 p{
+  font-size: 20px;
+  font-weight: 500;
+}
+/* star hot deal */
+.rating-hotdeal .star-rating span:before{
+  color: #ffffff !important;
+}
+/* button hot deal */
+.hotdeal-item-home .content-hotdeal .item-row-2{
+  justify-content: right !important;
+}
+/* description tin tức */
+.box-text p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-align: justify;
+}
+/* footer */
+/* submit */
+.form-footer .wpcf7-submit {
+  background: #F58533 !important;
+}
+.left-contact {
+  padding-top: 84px;
+  background: #F58533;
+  border-radius: 15px 0px 0px 15px;
+  min-height: 513px;
+  text-align: center;
+}
+.thumnail-contact-thankyou {
+  background: rgba(255, 255, 255, 0.3);
+  max-width: 200px;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 0px auto;
+}
+p.name{
+  padding-top: 15px;
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 151.19%;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-bottom: 0px;
+}
+p.review img {
+  max-width: 110px;
+}
+
+p.order-name-contact {
+  margin-top: 99px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 130%;
+  /* text-align: center; */
+  color: #000000;
+  margin-bottom: 5px;
+}
+p.order-process-contact {
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 130%;
+  margin-top: 25px;
+}
+p.contact {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+}
+ul.support li {
+  display: inline-block;
+}
+ul.support {
+  text-align: center;
+}
+.right-contact {
+  min-height: 513px;
+}
+p.support {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  text-align: right;
+}
+.tel {
+  background: #E5E5E5;
+  border-radius: 30px;
+}
+.tel a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  align-items: center;
+  text-align: right;
+  color: #FF0000;
+  padding: 10px;
+  line-height: 40px;
+}
+div#totalcontact {
+  margin: 0px 10px;
+}
+/*Checkout*/
+div#popup-alepoint,div#popup-booking {
+  border-radius: 15px;
+}
+div#popup-alepoint h3,div#popup-popup h3  {
+  border-radius: 15px 15px 0px 0px;
+}
+
+.information-alepoint div,.information-booking div {
+  display: inline-block;
+  width: 48%;
+  font-size: 18px;
+  line-height: 151.19%;
+  align-items: center;
+  color: #3C3C3C;
+}
+.information-alepoint,.information-booking  {
+ padding: 23px; 
+}
+.right-alepoint,.right-booking {
+  text-align: left;
+}
+.left-alepoint,.left-booking {
+  text-align: right;
+}
+.information-alepoint div span,.information-booking div span{
+  color: #F58533;
+}
+div#popup-alepoint .coupon-content-popup,div#popup-booking .coupon-content-popup {
+  text-align: center;
+}
+input#code-apply-alepoint,input#code-apply-booking {
+  background: #FFFFFF;
+  border: 1px solid #9A9A9A;
+  border-radius: 50px;
+  margin: 0px auto;
+  max-width: 480px;
+  height: 50px;
+}
+button#btn-apdung-alepoint,button#btn-apdung-booking {
+  background: #009052;
+  border-radius: 50px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 151.19%;
+  /* display: flex; */
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  margin: 20px 0px;
+}
+span.totalall {
+  cursor: pointer;
+}
+span.totalalepointuse {
+  display: inherit;
+  text-align: left;
+  margin-left: 28px;
+  margin-top: 11px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 151.19%;
+  align-items: center;
+  color: #817E7E;
+}
+tr.fee img {
+  padding-left: 10px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+div.date{
+  font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #009052;
+
+}
+.item-teetime-box.disable .teetime-item-time {
+  background-color: #747474 !important;
+}
+.item-teetime-box.disable span {
+  color: #747474!important;
+}
+.disable {
+  pointer-events: none;
+}
+
+@media (min-width:  549px){
+  .lds-hourglass{
+    max-width: 360px;
+    max-height:  200px;
+  }
+}
+
+.loading {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10000;
+  background-color: #ffffffcc;
+  text-align: center;
+  top: 0px;
+  right: 0px;
+}
+/*copy from customize*/
+span.select2-selection.select2-selection--single {
+    border: none;
+}
+button#place_order {
+    width: 100%;
+    border-radius: 8px;
+}
+
+a.uppercase.text-top-header{
+    color: #007342 !important;
+}
+a.uppercase.text-top-header.mail-top{
+    font-size: 16px;
+}
+.off-canvas:not(.off-canvas-center) .nav-vertical li>a {
+    padding-left: 30px;
+}
+
+/* text banner */
+.banner h2{
+  margin-top: 0.5em;
+}
+
+/* star live booking */
+.content-item .rating-hotdeal .star-rating span:before{
+    color: #007342 !important;
+}
+.content-item .rating-hotdeal .count-rate {
+    color: #000000 !important;
+}
+
+/* star hot deal */
+.item-row-1 .rating-hotdeal .star-rating span:before{
+  color: #ffffff !important;
+}
+
+/* description title */
+.text{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* button hot deal */
+.hotdeal-item-home .content-hotdeal .item-row-2{
+  justify-content: right !important;
+}
+
+/* description blog tin tức */
+.box-text p {
+    margin-bottom: 0.6em;
+    margin-top: 0.6em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-align: justify;
+}
+
+/* footer */
+/* submit */
+.form-footer .wpcf7-submit {
+  background: #F58533 !important;
+}
+
+/* Page hot deal */
+.hotdeal-item-loop .rating-hotdeal .star-rating span:before {
+    color: #007342 !important;
+}
+.info-golf-item .rating-hotdeal .count-rate {
+    color: #007342 !important;
+}
+.star-rating:before, .woocommerce-page .star-rating:before{
+    color: #d6d6d6 !important;
+}
+
+/* Tin tức */
+.post-box-right-index .box-text h5{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 25px;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+.item-tours-loop .content-item a{
+     overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+.item-tours-loop .content-item {
+    padding: 22px 15px;
+}
+
+/* Social */
+.at-share-btn-elements {
+    margin-top: 15px;
+}
+.custom-meta-post img{
+    margin: 0 10px;
+}
+
+/* star golf lân cận */
+.price-item-golf-course .price-golf-course span {
+    color: #f58533;
+}
+
+/* thanh toán  */
+span.amount{
+    color: #009052;
+}
+.teetime-item.is-hotdeal span.amount{
+  
+  color: #ff6900;
+}
+li.wc_payment_method.payment_method_cod {
+    /*padding: 32px 32px;
+    display: flex;
+    align-items: center;*/
+}
+#step2 #payment input[type=radio]+label{
+    padding-left: 15px !important;
+}
+
+/* THANH TOÁN   BẢO HIỂM HIO */
+ul.wc_payment_methods.payment_methods.methods{
+    margin-left: 15px;
+    margin-top: 15px;
+    }
+
+/* THÔNG BÁO */
+.order-notice {
+    /*display: flex;*/
+    justify-content: space-between;
+}
+.order-notice .action ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+.order-notice .action ul li{
+    margin-right: 10px;
+}
+a.read{
+    color: #009052;
+}
+a.remove-notice{
+    color: #F58532;
+}
+
+/* avatar */
+.account-item .image-icon img{
+    height: 32px;
+}
+/*language*/
+.sidebar-menu .nav li .image-icon img,
+.nav-small .image-icon{
+  width: 24px;
+  height: auto;
+}
+/*  phương thức thanh toán */
+    
+    #pp--pay-form input, #pp--pay-form select{
+        border-radius: 99px !important;
+    }
+.payment_box.payment_method_bacs p {
+    margin-left: 43px;
+}
+
+/* chi tiết lịch trình đặt tour */
+.tab-content-tours *{
+    font-size: 20px !important;
+}
+.acc-tours-info .accordion-item .accordion-inner * {
+  max-width: 100%;
+  width: auto !important;
+}
+.calendar-tab-item-icon span{
+    font-size: 20px !important;
+    margin-left: 10px;
+}
+.calendar-tab-item-icon img{
+    width: 30px;
+    height: 30px;
+}
+
+/* thông báo */
+.order-notice{
+    border-bottom: 1px solid #c4c4c4;
+    margin-bottom: 30px; 
+    margin-top: 20px;
+}
+/* avatar acc cmt */
+img.avatar.avatar-60.photo {
+    width: 50px;
+    height: 50px;
+}
+/* lịch trình đặt tour */
+    .accordion-title.plain>span>svg {
+    margin-right: 15px !important;
+}
+/* scroll top */
+.button.icon.circle {
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #009052;
+    border: 0px solid #009052;
+    color: white;
+}
+/* form đặt sân */
+.golfer-added .golfer-item .golfer-more .remove-golfer{
+    justify-content: space-between;
+}
+section.woocommerce-bacs-bank-details {
+    margin-top: 30px;
+}
+/* số dư booking */
+.form-booking{
+    padding: 50px 20px;
+}
+
+
+
+/* ========== 07/07 =========== */
+/* reponsive */
+/* mobile */
+/* form sign up */
+
+/* ----- home ------- */
+/* menu */
+i.image-icon{
+  margin-left: 10px;
+}
+i.icon-image{
+    margin-right: 10px;
+}
+
+
+@media screen and (max-width: 1440px){
+    .text-inner.text-left{
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 1369px){
+/*  banner */
+    .row-search-banner .medium-10{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    .wrap-search-box{
+        margin-right: 0px;
+    }
+    .row-search-banner .large-2 {
+    max-width: 100%;
+    flex-basis: 100%;
+    }
+    .row-search-banner {
+    margin-top: -240px;
+    }
+    /* chi tiết sân */
+    /*.carousel-cell.is-selected img{
+        margin-left: 3% !important;
+    }*/
+}
+
+@media screen and (max-width: 1280px) {
+    
+    /* text banner */
+  .text-box-content .text-left{
+    margin-left: 20px;
+        margin-top: -30px;
+  }
+
+    /* menu  */
+    a.uppercase.text-top-header.mail-top{
+        font-size: 1rem;
+    }
+    .html_topbar_left a.text-top-header{
+    color: #007342 !important;
+}
+    .off-canvas:not(.off-canvas-center) .nav-vertical li>a{
+        padding-left: 30px;
+    }
+    
+    /* popup search  */
+    .wrap-search-box .list-cat-location{
+        width: 100%;
+    }
+    
+/*  banner */
+
+    .row-search-banner{
+        flex-direction: column;
+    }
+    .row-search-banner .medium-10{
+        max-width: 95%;
+        flex-basis: 95%;
+        margin: 0 auto;
+    }
+    .wrap-search-box{
+        margin: 0;
+    }
+    
+/* hot deal */
+    .col.grid-col.small-12.large-4.grid-col-1-2{
+        left: 420px !important;
+    }
+    .is-selected .banner-grid-wrapper div:nth-child(3) {
+    left: 840px !important;
+}
+}
+
+
+@media screen and (max-width: 1024px){
+    .wrap-search-box .date-range input,.search-box-diemden .number-golfer label{
+        font-size: 15px;
+    }
+    
+/* chi tiết sân golf     */
+    .header-golf-search .large-7{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    .carousel-cell.is-selected{
+        padding: 0 15px !important;
+    }
+    .main-content-golf-single  .large-4{
+        max-width: 50%;
+    flex-basis: 50%;
+}
+    .main-content-golf-single .large-8{
+        max-width: 48%;
+    flex-basis: 48%;
+    }
+    
+/* chi tiết đặt tour */
+    .tab-title-tours li a span{
+        font-size: 18px;
+    }
+/* HOT DEAL */
+    .col.grid-col.small-12.large-4.grid-col-1-2 {
+    left: 338px !important;
+}
+    .is-selected .banner-grid-wrapper div:nth-child(3) {
+    left: 675px !important;
+}
+/* Chi tiết golf tour */
+    .wrap-item-form-filter-tours .item-input button{
+        padding: 0 15px;
+    }
+}
+
+
+@media screen and (max-width: 920px){
+    
+    .wrap-search-box .date-range{
+    width: 50%;
+        padding-left: 10px;
+    }
+    .wrap-search-box .date-range .arrow-middle{
+        margin-right: 15px;
+        margin-left: 0;
+    }
+    .search-box-diemden .number-golfer input{
+        font-size: 15px;
+    }
+    .wrap-search-box .box-btn-submit button{
+        width: 160px;
+    }
+    .search-box-diemden .number-golfer{
+        margin-left: 15px;
+    }
+    .row-search-banner{
+        margin-top: -220px;
+    }
+    .row-search-banner .large-2{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    
+/* THÔNG BÁO */
+    .order-notice .action ul{
+        display: block;
+    }
+    
+    /* HOT DEAL */
+    .hotdeal-item-loop .content-item .info-golf-item{
+        width: 100%;
+    }
+    .hotdeal-item-loop .content-item .price-item-golf{
+        /*padding: 25px 10px 25px 10px;*/
+    }
+    .hotdeal-item-loop .content-item .price-item-golf .price{
+        flex-direction: column;
+        line-height: 1.5em;
+    }
+    .hotdeal-item-loop .content-item .info-golf-item h3.title a, .hotdeal-item-loop .content-item .price-item-golf a.readmore{
+        /*font-size: 15px;*/
+    }
+    .form-footer .wpcf7-submit{
+        font-size: 18px;
+        width: 110px;
+    }
+    .form-footer .wpcf7-text{
+        font-size: 15px;
+    }
+    .row.row-small .large-4 {
+    max-width: 50%;
+    flex-basis: 50%;
+}
+    .col.grid-col.small-12.large-4.grid-col-1{
+        height: 600px !important;
+    }
+    .col.grid-col.small-12.large-4.grid-col-1-2,.col.grid-col.small-12.large-4.grid-col-1{
+        height: 300px !important;
+    }
+    div#banner-grid{
+        display:flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .col.grid-col.small-12.large-4{
+    position: relative !important;
+        left: 0 !important;
+    top: 0 !important;
+    }
+    .col.grid-col.small-12.large-4.grid-col-1-2{
+    left: 0 !important;
+}
+    
+/* chi tiết sân */
+    .header-golf-search .large-5 {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+    .list-label-info{
+        justify-content: center;
+    }
+    .product-main{
+        padding-top: 30px; 
+        padding-bottom: 0;
+        margin-bottom: -30px;
+    }
+    .carousel-cell.is-selected img{
+        margin-left: 0% !important;
+    }
+/* chi tiết lịch trình */
+    .tab-tour-moreinfo{
+        padding: 20px 15px;
+    }
+    
+/* chi tiết golf tour */
+    .row.category-page-row .large-3{
+        max-width: 30%;
+        flex-basis: 30%;
+    }
+    .row.category-page-row .large-9{
+        max-width: 70%;
+        flex-basis: 70%;
+    }
+    
+/* thanh toán bảo hiển HIO */
+    form.woocommerce-checkout .input-form{
+        font-size: 15px !important;
+    }
+    .wc-check-column-right .has-border{
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    
+}
+
+@media screen and (max-width: 821px){
+    .main-event-single.mt .medium-3,.header-event-single .medium-9{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    .time-countdown .time-end-register{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .time-countdown .time-end-register span{
+        font-size: 30px;
+    }
+    .wrap-timer {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+    div#myFlipper {
+    font-size: 45px !important;
+}
+    .header-event-single h1.title,.box-add-to-cart>span{
+        font-size: 35px;
+    }
+    .header-event-single .location p,.content-tab-event-single-item, .box-add-to-cart .box-time,.box-add-to-cart .box-location div,.box-add-to-cart .price-event{
+        font-size: 25px;
+    }
+    .box-add-to-cart a.addtocart{
+        height: 60px;
+        line-height: 55px;
+        font-size: 30px;
+    }
+    .content-tab-event-single .list-title a{
+        font-size: 22px;
+    }
+
+    .tab-title-tours li {
+    margin: 0px 10px !important;
+}
+
+    .row.category-page-row {
+    flex-direction: column-reverse;
+}
+    aside#media_image-11  img, aside#media_image-12 img{
+        width: 100%;
+    }
+
+    .row.category-page-row .large-3{
+        max-width: 100%;
+        flex-basis: 100%;
+        display: block !important;
+    }
+    .row.category-page-row .large-9{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    .title-fillter-tours h3 {
+      margin-left: 20px;
+      margin-right:  20px;
+  }
+    a#btn-filter-tours-mobile {
+    margin-left: 20px;
+}
+
+    .left-contact,.right-contact{
+        min-height: 420px;
+    }
+    p.order-name-contact{
+        margin-top: 50px;
+    }
+        .right-contact{
+        border-radius: 0px 0px 15px 15px;
+    }
+    .left-contact{
+        border-radius: 15px 15px 0px 0px;
+    }
+
+    div.text-box.banner-layer.x10>div{
+    margin-top: -120px !important;
+}
+    a.button.secondary {
+    font-size: 1.5em;
+}
+    .banner h2{
+        line-height: 1.3em;
+    }
+/* ưu đãi khác */
+    .row.uu-dai-khac .item-uudai-khac{
+        width: 100%;
+    }
+    .main-uu-dai-hoi-vien{
+        padding-bottom: 0px;
+    }
+
+    .row.content-row.mb-0>div.medium-9,.row.content-row.mb-0>div.medium-3 {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+    [data-show=show-for-small], .show-for-small {
+    display: block !important;
+}
+
+/* Time tin tức */
+    .flipper.flipper-initialized {
+    font-size: 30px !important;
+    height: 60px;
+}
+}
+
+@media screen and (max-width: 769px){
+    .is-large {
+    font-size: 1.5em;
+  }
+  .col-feedback .col-inner{
+    padding: 0;
+  }
+  .row.post-box-right-index.large-columns-1.medium-columns-1.small-columns-1 {
+    margin-bottom: -40px;
+}
+
+.insurance-content ul.nav li a{
+  text-align: left;
+}
+    .html_topbar_left a.text-top-header::after {
+        left: 20px
+    }.account--block>.row>.large-3{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    .account--block>.row>.large-9{
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+    td.woocommerce-orders-table__cell{
+        font-size: 17px;
+    }
+    .touch-scroll-table{
+        padding: 5px 15px;
+    }
+    .wrap-search-box .date-range .arrow-middle{
+        margin-right: 5px;
+    }
+    
+/* HOT DEAL */
+    .hotdeal-item-loop .content-item .price-item-golf .price {
+    flex-direction: initial;
+    line-height: 0;
+}
+    
+    
+    
+/* GOLF EVENT */
+    .header-event-single .time-countdown{
+        width: 100%;
+    }
+    .time-countdown .time-end-register {
+    font-size: 30px;
+    line-height: 40px;
+        width: 250px;
+}
+    
+/* chi tiết lịch trình */
+    .tab-title-tours li a span {
+    font-size: 16px;
+}
+    
+/* time tin tức */
+    .hotdeal-top .thumbnail .countdown {
+    width: 250px;
+}
+}
+
+
+@media screen and (max-width: 565px){
+/* banner */
+    .wrap-search-box{
+        flex-direction: column;
+    }
+   .wrap-search-box{
+    flex-direction: column;
+    /*max-height: 50px;*/
+    /*margin: 0 17px;*/
+    padding-right: 0;
+        background:none;
+  }
+    .wrap-search-box .box-input input{
+        border-radius: 99px;
+        height: 60px;
+    }
+  .wrap-search-box .box-input{
+    background: #fff;
+    border-radius: 99px;
+  }
+    .search-box-diemden .box-input{
+        width: 100%;
+    }
+    span.select2.select2-container.select2-container--default{
+        width: 430px !important;
+    }
+    .wrap-search-box .box-location{
+        min-width: 100%;
+      cursor: pointer;
+      border: none;
+      background-color: #fff;
+      border-radius: 99px;
+      margin-top: 10px;
+    }
+    .row-search-banner {
+      margin-top: -240px;
+    }
+    .wrap-search-box .box-location>span{
+        line-height: 2.8em;
+    }
+    .row-search-banner .col-inner.text-center {
+      /*margin-top: 70px;*/
+    }
+    .wrap-search-box .date-range{
+        border: none;
+        margin-top: 15px;   
+        width: 100%;
+        background-color: #fff;
+    border-radius: 99px;
+        justify-content: space-around;
+    }
+    .wrap-search-box .date-range .date-select{
+        background: none;
+    }
+    .search-box-diemden .number-golfer{
+        width: 100%;
+        margin-top: 15px;
+        background-color: #fff;
+        border-radius: 99px;
+        margin-left: 0;
+    }
+    .wrap-search-box .box-btn-submit{
+        position: static;
+        width: 100%;
+    }   
+    .wrap-search-box .box-btn-submit button{
+        height: 50px;
+        font-size: 20px;
+        margin-top: 15px;
+        border-radius: 99px;
+        width: 100%;
+    }
+    .wrap-search-page-location{
+        margin-top: -190px;
+    }
+    
+/* tin tức */
+    h2.title-40{
+        margin-top: 20px;
+    }
+    
+/*  chi tiết sân golf */
+    .header-golf-search .wrap-search-box{
+        padding-right: 0;
+    }
+    .header-golf-search .wrap-search-box .box-input input{
+        height: 45px;
+        font-size: 18px;
+    }
+    .header-golf-search #select-location{
+        font-size: 18px;
+    }
+    .header-golf-search .wrap-search-box .box-location{
+        min-width: 100%;
+        margin-top: 10px;
+        border: none;
+    background-color: #fff;
+    border-radius: 99px;
+        min-height: 45px;
+    }
+    .list-label-info{
+        margin-top: 15px;
+    }
+    .list-label-info .item-label-info{
+        height: 45px;
+    }
+    .header-golf-search .wrap-search-box .box-btn-submit button{
+    font-size: 17px;
+    height: 45px;
+    }
+    .main-content-golf-single .large-4{
+        max-width: 100%;
+    flex-basis: 100%;
+    }
+    .main-content-golf-single .large-8{
+        max-width: 100%;
+    flex-basis: 100%;
+    }
+    
+/* form search  */
+    .wrap-search-box .keywords-recomment,.wrap-search-box .list-cat-location .column-left,.wrap-search-box .list-cat-location .column-right {
+    width: 100%;
+    }
+    
+/* form select */
+    .wrap-search-box .list-cat-location{
+        flex-direction: column;
+    }
+    .wrap-search-box .list-cat-location .area-3mien span{
+        font-size: 20px;
+    }
+    
+    /* HOT DEAL */
+    .product-footer{
+        padding: 0;
+    }
+    .time-countdown .time-end-register{
+    font-size: 25px;
+        border-radius: 8px 8px 8px 8px !important;
+}
+    .time-countdown .time-end-register span{
+        font-size: 22px;
+    }
+    div#myFlipper {
+    font-size: 38px !important;
+}
+    .header-event-single h1.title, .box-add-to-cart>span{
+        font-size: 26px;
+    }
+    .header-event-single .location p, .content-tab-event-single-item, .box-add-to-cart .box-time, .box-add-to-cart .box-location div, .box-add-to-cart .price-event {
+    font-size: 20px;
+}
+    .box-add-to-cart a.addtocart {
+    height: 45px;
+    line-height: 40px;
+    font-size: 22px;
+}
+    
+    .row.row-small .large-4 {
+    max-width: 100%;
+    flex-basis: 100%;
+    }
+    
+/* GOLF EVENT */
+    .hotdeal-top .hr-gray{
+        border-top: 3px solid currentColor;
+        margin-top: -10px;
+    }
+    
+/* GOLF TOUR */
+    .row.row-small .col.post-item{
+        margin-top: -30px;
+    }
+    .info-location-overlay h3{
+        font-size: 22px;
+    }
+    #content section{
+        padding-top: 0;
+    }
+    
+/* tin tức */
+    .post-index-big .box-text h5{
+        font-size: 20px;
+    }
+    
+/*  BẢO HIỂM HIO */
+    form.form-baohiem-daihan .field-group{
+        flex-direction: column;
+    }
+    form.form-baohiem-daihan .field-group .form-control{
+        width: 100%;
+        max-width: 100%;
+        margin-top: 15px;
+    }
+    form.form-baohiem-daihan .field-group .packet-baohiem{
+        margin-top: 15px;
+    }
+    form.form-baohiem-daihan .field-group input{
+        max-width: 100%;
+        margin-top: 15px;
+    }
+    .form-baohiem-ngay .row-1{
+        flex-direction: column;
+    }
+    .form-baohiem-ngay .row-1 .field-group{
+        margin: 0;
+        width: 100%;
+    }
+    select#golf-course-select{
+        border-radius: 99px;
+    }
+    .form-baohiem-ngay .row-1 .flatpickr-input{
+        width: 100%;
+        height: 40px;
+        padding: 0 20px;
+    }
+    .form-baohiem-ngay .row-1 .field-group .par{
+        margin-top: 15px;
+    }
+    .form-register-member .field-form{
+        flex-direction: column;
+    }
+    
+/*  MÃ ƯU ĐÃI */
+    .main-list-coupon .coupon{
+        width: 100%;
+    }
+    
+/* THANH TOÁN   BẢO HIỂM HIO */
+    .field-insur-month{
+        flex-direction: column;
+    }
+    form.woocommerce-checkout .input-fullname, input.input-form.input-vgacccd, form.woocommerce-checkout .input-phone{
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    #step2 #payment input[type=radio]+label{
+        padding-left: 0 !important;
+    }
+    
+/* BẢNG GIÁ  */
+    table.tg th{
+        /*font-size: 10px;*/
+    }
+    .tg .tg-i4po{
+        text-align: left;
+    }
+    .tg td{
+        /*font-size: 12px;*/
+    }
+    
+/* quản lý đơn hàng  */
+    th.woocommerce-orders-table__header,td.woocommerce-orders-table__cell,.woocommerce-orders-table__cell-dich-vu a,.woocommerce-orders-table__cell-order-number a{ 
+        font-size: 13px;
+    }
+    
+/* thanh toán đặt tour */
+    form.woocommerce-checkout .field-group input{
+    flex: 0 calc(100% - 20px);
+    }
+    
+    /* chi tiết đơn hàng */
+    .order-notice{
+        /*display: inline-block;*/
+        /*width: 100%;*/
+    }
+    .order-notice.zz{
+        display: block;
+        width: 100%;
+    }
+    .order-notice .action ul {
+    display: inline-flex;
+    /*float: right;*/
+}
+    .noidungtb {
+    /*padding: 5px 0;*/
+}
+    
+/* chi tiết sân */
+    .teetime-category .teetime-list{
+        width: auto;
+    }
+    
+    /* thanh toán đặt sân */
+    .header-info-course .meta-info-golf{
+        flex-direction: column;
+        line-height: 2.3em;
+    }
+    #customer_details h3{
+        font-size: 19px;
+    }
+    .kh_wrap_header.field-form-course >.field-group{
+      margin-top: 15px;
+    }
+    #customer_details h3+i{
+      font-size: 15px;
+    }
+    .field-form-course .field-group-golfer{
+        max-width: 100%;
+    }
+    .field-form-course .field-group .input-fullname{
+        width: 100%;
+    }
+    
+    .field-form-course .field-group .input-price-perpeople{
+        width: 100%;
+    }
+    .field-form-course .field-group select,.field-form-course .field-form-baohiem-1 .input-vga-cccd-1,.field-form-course .field-form-baohiem-1 .input-baohiem-fee-1,.golfer-added .golfer-item .golfer-more{
+        width: 100%;
+    }
+    .field-group.field-group-golfer {
+    /*margin-right: 15px;*/
+}
+    #customer_details{
+        padding: 30px 15px;
+    }
+    
+    
+/*  phương thức thanh toán */
+    #pp--pay-form{
+        max-width: 100% !important;
+    }
+    #usaepay_cc_cid{
+        width: 100% !important;
+    }
+    #pp--pay-form input, #pp--pay-form select{
+        border-radius: 99px !important;
+    }
+    div#pay_forma{
+        padding: 15px !important;
+    }
+    
+/* chi tiết lịch trình */
+    .tour-relate .title-tour-relate {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+    
+/* loading */
+    
+/*  form nhận tin */
+    .text-right>div{
+        margin-left: 30px;
+    }
+/* form đăng ký hội viên */
+    .main-register-member{
+        padding: 30px 20px;
+    }
+}
+
+#search_location_banner .wrap-search-box .box-input input,
+#search_location_banner .wrap-search-box span{
+    font-size: 15px;
+}
+@media (min-width: 850px){
+  #search_location_banner .wrap-search-box .box-input input,
+  #search_location_banner .wrap-search-box span{
+      font-size: 22px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .row-search-banner .col-inner form{
+    margin-top: -100px;
+  }
+    
+  /* text-banner */
+  .banner h2{
+    line-height: 1.2;
+  }
+  .row-search-banner .wrap-search-box .box-btn-submit{
+    display: none;
+  }
+    .row-search-banner{
+        margin-top: -120px;
+    }
+   .wrap-search-box{
+    flex-direction: column;
+    /*max-height: 50px;*/
+    /*margin: 0 17px;*/
+    padding-right: 0;
+        background:none;
+  }
+    .wrap-search-box .box-input input{
+        border-radius: 99px;
+        height: 48px;
+    }
+  .wrap-search-box .box-input{
+    background: #fff;
+    border-radius: 99px;
+  }
+  .col.medium-2.small-12.large-2 .col-inner.text-center{
+    /*margin-top: 95px; */
+  }
+  a.button.success.lowercase{
+    /*margin-top: -45px; */
+  }
+  .wrap-search-box .box-location{
+    min-width: 100%;
+    background-color: #fff;
+    margin-top: 15px;
+    line-height: 3em;
+    z-index: 9;
+    border-radius: 99px;
+    height: 3em;
+  }
+        .wrap-search-box .keywords-recomment{
+        width: 100%;
+    }
+    
+/* form select */
+    .wrap-search-box .list-cat-location .column-left,.wrap-search-box .list-cat-location .column-right{
+        padding: 15px;
+    }
+    .wrap-search-box .list-cat-location span.title{
+        font-size: 19px;
+    }
+    .wrap-search-box .list-cat-location .area-3mien span{
+        font-size: 13px;
+    }
+    .wrap-search-box .list-cat-location .area-3mien .item-3mien a {
+    font-size: 15px;
+}
+/* banner đăng ký hội viên */
+    .banner h4{
+        font-size: 20px;
+    }
+    .banner h2 {
+    font-size: 1.9em;
+}
+    div.text-box.banner-layer.x10>div {
+    margin-top: -80px !important;
+}
+/* HOT DEAL */
+    .time-countdown .time-end-register{
+        width: 190px;
+    }
+    div#myFlipper {
+    font-size: 28px !important;
+}
+    
+  /* GOLF TOUR */
+    .search-box-diemden .box-input{
+        width: 100%;
+    }
+  span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+    padding-right: 20px;
+        height: 45px;
+}
+    span.select2-selection.select2-selection--single{
+        margin-top: 5px;
+    }
+    .wrap-search-box .date-range{
+        width: 100%;
+        padding: 0;
+        background-color: #fff;
+        border-radius: 99px;
+        margin-top: 15px;
+    }
+    .wrap-search-box .date-range input{
+        font-size: 19px;
+    }
+    .wrap-search-box .date-range .date-select{
+        background: none;
+    }
+    svg.svg-img.arrow-middle.replaced-svg{
+        margin-left: -10px;
+    }
+    .search-box-diemden .number-golfer{
+        width: 100%;
+        background-color: #fff;
+    border-radius: 99px;
+    margin-top: 15px;
+    }
+    .search-box-diemden .number-golfer input{
+        background: none;
+    }
+    .wrap-search-page-location{
+        margin-top: -270px;
+    }
+    .wrap-search-box .box-btn-submit{
+        position: inherit ;
+    }
+    .wrap-search-box .box-btn-submit button{
+        height: 50px;
+        margin-top: 15px;
+        border-radius: 99px;
+        font-size: 20px;
+    }
+    .search-box-diemden .number-golfer label{
+        font-size: 18px;
+    }
+    
+    .search-box-diemden .number-golfer {
+        margin-left: 0px;
+        }
+    .search-box-diemden .number-golfer input{
+            font-size: 20px;
+        }
+    
+/* live booking */
+    .title-40 {
+    font-size: 30px;
+        margin-top: 20px;
+}
+  #text-3484564731 p{
+  font-size: 20px;
+}
+    
+/* chi tiết sân golf */
+    .list-label-info{
+        margin-left: -15px;
+    }
+    .list-label-info .item-label-info{
+        padding: 4px;
+    }
+    .hotdeal--top-list>div {
+    flex: 0 calc(50% - 30px);
+    padding-top: 10px;
+}
+    .teetime-category .teetime-list .item-teetime-box {
+    flex: 0 1 calc(50% - 20px);
+}
+    
+/* mã ưu đãi */
+    .main-list-coupon .coupon .coupon-right{
+        font-size: 15px;
+    }
+/* chi tiết đặt sân */
+    section.woocommerce-order-details{
+        padding: 19px 15px;
+    }
+    .detail table{
+        width: 330px !important;
+    }
+    /* time tin tức */
+    .hotdeal-top .thumbnail .countdown {
+    width: 190px;
+}
+    .flipper.flipper-initialized {
+        font-size: 28px !important;
+    }
+}
+    
+
+@media screen and (max-width: 395px){
+    .wrap-search-box .date-range input{
+        font-size: 19px;
+    }
+    
+/* chi tiết sân golf */
+    .list-label-info .item-label-info{
+        padding: 6px;
+    font-size: 15px;
+    }
+    .list-label-info .item-label-info svg{
+        width: 15px;
+        height: 15px;
+    }
+    
+/* chi tiết thanh toán */
+    .detail table{
+        width: 305px;
+    }
+    
+/* HOT DEAL */
+    div#myFlipper {
+    font-size: 24px !important;
+}
+    .time-countdown .time-end-register {
+    font-size: 22px;
+        line-height: 30px;
+}
+    .time-countdown .time-end-register span {
+    font-size: 18px;
+}
+}
+@media screen and (max-width: 376px) {
+  /* button banner */
+    .wrap-search-box .box-location{
+    min-width: 100%;
+  }
+    .box-vertical .box-image{
+    height: 165px;
+  }
+    .wrap-search-box .date-range input {
+    font-size: 17px;
+}
+    .wrap-search-box .box-location>span{
+        line-height: 3em;
+    }
+    .wrap-search-box .box-input input{
+        font-size: 20px;
+    }
+    .wrap-search-box .box-input img{
+        width: 15px;
+    }
+    .wrap-search-box .box-location img{
+        width: 20px;
+    }
+    .wrap-search-box .box-location .arrow-down{
+        width: 13px;
+    }
+    .wrap-search-box .box-location>span{
+        font-size: 20px;
+    }
+    
+/* quản lý đơn hàng */
+    th.woocommerce-orders-table__header,td.woocommerce-orders-table__cell,.woocommerce-orders-table__cell-dich-vu a,.woocommerce-orders-table__cell-order-number a{ 
+        font-size: 12px;
+    }
+    
+/* chi tiết sân golf */
+    .list-label-info .item-label-info{
+        padding: 6px;
+        font-size: 13px;
+    }
+    
+/* chi tiết thanh toán */
+    .detail table{
+        width: 285px;
+    }
+    
+/* HOT DEAL */
+    .time-countdown .time-end-register {
+    font-size: 20px;
+    line-height: 25px;
+        width: 160px;
+}
+    .header-event-single h1.title, .box-add-to-cart>span {
+    font-size: 20px;
+}
+    .header-event-single .location p, .content-tab-event-single-item, .box-add-to-cart .box-time, .box-add-to-cart .box-location div, .box-add-to-cart .price-event {
+    font-size: 17px;
+}
+    .box-add-to-cart a.addtocart {
+    height: 35px;
+    line-height: 30px;
+    font-size: 18px;
+}
+    
+/* time tin tức */
+    .hotdeal-top .thumbnail .countdown {
+    width: 160px;
+}
+.flipper.flipper-initialized {
+        font-size: 23px !important;
+    }
+
+} 
+
+
+@media screen and (max-width: 361px){
+    .list-label-info .item-label-info svg {
+    width: 13px;
+    height: 13px;
+}
+
+#review_form div.nsl-container[data-align="left"] {     text-align: left; 
+    display: none; 
+    }
+
+/* popup thanh toán */
+td.woocommerce-table__product-name.product-name,td.woocommerce-table__product-total.product-total{
+    font-size: 13px;
+}
+.detail table {
+    width: 300px !important;
+}
+/* số dư booking */
+    .my_account_orders.process-withdraw th, .my_account_orders.process-withdraw td{
+        font-size: 0.7em;
+    }
+}
+
+
+/*htecom Fix */
+.wrap-input-name .change-input-name,
+.wrap-input-email .change-input-email,
+.wrap-field-address .change-address-input{
+    opacity: 0.5;
+}
+.wrap-field-address:hover .change-address-input,
+.wrap-input-email:hover .change-input-email,
+.wrap-input-name:hover .change-input-name{
+    opacity: 1;
+}
+form.woocommerce-EditAccountForm .avatar_right img{
+    margin-bottom: 15px;
+    border-radius: 30px;
+    border: 3px solid #ebebeb;
+}
+form.woocommerce-EditAccountForm .avatar_right input[name="image"]{
+    white-space: normal;
+    max-width: 100%;
+}
+.swal2_notify{
+    -moz-animation: hide_notify 0s ease-in 5s forwards;
+    /* Firefox */
+    -webkit-animation: hide_notify 0s ease-in 5s forwards;
+    /* Safari and Chrome */
+    -o-animation: hide_notify 0s ease-in 5s forwards;
+    /* Opera */
+    animation: hide_notify 0s ease-in 5s forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@keyframes hide_notify {
+    to {
+        width:0;
+        height:0;
+        overflow:hidden;
+    }
+}
+@-webkit-keyframes hide_notify {
+    to {
+        width:0;
+        height:0;
+        visibility:hidden;
+    }
+}
+body .mfp-close-btn-in .mfp-close{
+    color: #ccc !important;
+}
+
+.woocommerce-Button{
+    border-radius: 99px !important;
+}
+body .button.white.is-outline *{
+    color:  inherit;
+    border-color: inherit;
+}
+body .button.white.is-outline{
+    color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+}
+body .button.white.is-outline:hover{
+    color:  white !important;
+    background-color: var(--primary-color) !important;
+}
+#san_golf_ban_muon_choi{
+    height: 50px;
+    border: 1px solid #C4C4C4;
+    border-radius: 15px;
+    padding-left: 45px;
+    font-size: 17px;
+    box-shadow: none;
+    /*background-image: url(../images/plane.png);*/
+    background-repeat: no-repeat;
+    background-position: 10px;
+    position: relative;
+    max-width: 100%;
+    padding-right: 20px;
+    width: 100%;
+}
+.san_golf_ban_muon_choi_wrap .absolute{
+    left: 10px;
+    top:  10px;
+}
+.woocommerce-MyAccount-navigation li {
+    list-style: none;
+    padding: 10px;
+    margin-top: 15px;
+}
+.woocommerce-MyAccount-navigation li img {
+    width: 18px;
+    margin-top: -3px;
+    margin-right: 5px;;
+}
+.account--block {
+    padding-top: 30px;
+}
+.page-container,
+.post-content {
+    background: #e5e5e5;
+}
+.password-input{
+  position: relative;
+  margin-bottom: 1.5em;
+}
+.password-input input{
+  margin-bottom: 0px;
+}
+@media screen and (max-width: 480px) {
+#search_banner_page_location .wrap-search-box{
+  margin: 0px !important;
+}
+}
+.woocommerce-privacy-policy-text{
+  font-size: 1em;
+}
+#review_form_wrapper #commentform,
+#review_form_wrapper #submit{
+  margin-bottom: 0px;
+}
+.noidungtb a{
+  font-weight: bold;
+  color: #009052;
+}
+.woocommerce-message.message-wrapper,
+.woocommerce-NoticeGroup.woocommerce-NoticeGroup-updateOrderReview,
+.woocommerce-NoticeGroup.woocommerce-NoticeGroup-checkout{
+  display: none;
+}
+#iaa_talkBubble{
+  height: unset !important;
+}
